@@ -38,6 +38,6 @@ public class WeatherGoogle {
 
         System.out.println(str2.split(" ")[0]);
 
-      //  driver.close();
+        driver.close();
     }
 }
